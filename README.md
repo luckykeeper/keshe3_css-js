@@ -12,4 +12,6 @@ audio文件夹包含了网页使用的音频文件
 
 对课设的建议和想法、交流，请前往[这里](https://blog.luckykeeper.site:24680/article/18)
 
+如果这些文件或网站对你的期末课设有所帮助，还请点下上面的Star鼓励一下~
+
 By Luckykeeper
